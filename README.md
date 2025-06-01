@@ -124,3 +124,9 @@ The Power BI report includes multiple interlinked pages for comprehensive analys
 3. Update or replace dataset sources if required
 4. Use slicers or filters to explore different business insights
 
+
+## 🤝 Connect With Me
+
+If you liked this project or want to collaborate on Power BI or Data Analysis-related work:
+
+🔗 [LinkedIn – Aditya Kumar Dwivedi](https://www.linkedin.com/in/aditya-kumar-dwivedi-3702552aa/)
