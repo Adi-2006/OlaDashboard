@@ -28,19 +28,6 @@ A dynamic **Fleet Management Dashboard** created using **Microsoft Power BI**, d
 
 ---
 
-### ⭐ Ratings Overview – `Rating.png`
-![Rating Overview](./Rating.png)
-
-#### ✅ Insights:
-- Shows how customer ratings changed over time.
-- Helps identify service quality trends.
-
-#### 📈 Charts Used:
-- **Line Chart**: Displays average rating trends over weeks/months.
-- **Bar Chart**: Breakdown by driver, city, or category to find patterns.
-
----
-
 ### 💰 Revenue Analysis – `Revenue.png`
 ![Revenue Analysis](./Revenue.png)
 
@@ -91,6 +78,19 @@ The Power BI report includes multiple interlinked pages for comprehensive analys
 3. **Revenue Insights** – Monthly and cumulative income tracking
 4. **Vehicle Status** – Fleet management and usage
 5. **Cancellations** – Ride failure reasons and service improvement tracking
+
+---
+
+### ⭐ Ratings Overview – `Rating.png`
+![Rating Overview](./Rating.png)
+
+#### ✅ Insights:
+- Shows how customer ratings changed over time.
+- Helps identify service quality trends.
+
+#### 📈 Charts Used:
+- **Line Chart**: Displays average rating trends over weeks/months.
+- **Bar Chart**: Breakdown by driver, city, or category to find patterns.
 
 ---
 
