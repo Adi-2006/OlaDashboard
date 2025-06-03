@@ -28,19 +28,6 @@ A dynamic **Fleet Management Dashboard** created using **Microsoft Power BI**, d
 
 ---
 
-### 💰 Revenue Analysis – `Revenue.png`
-![Revenue Analysis](./Revenue.png)
-
-#### ✅ Insights:
-- Monthly/quarterly revenue performance.
-- Total income and growth percentage tracked.
-
-#### 📈 Charts Used:
-- **Column Chart**: Compare revenue across months/regions.
-- **Card Visuals**: Show total revenue and percentage growth.
-- **Area Chart**: Optional to show cumulative revenue trend.
-
----
 
 ### 🚙 Vehicle Status – `Vechile.png`
 ![Vehicle Status](./Vechile.png)
@@ -52,6 +39,20 @@ A dynamic **Fleet Management Dashboard** created using **Microsoft Power BI**, d
 - **Donut Chart**: To represent vehicle status percentage-wise.
 - **Stacked Bar Chart**: Breakdown by city or type for operational decisions.
 - **Matrix/Table**: Optional – detailed list of vehicle IDs and statuses.
+
+---
+
+### 💰 Revenue Analysis – `Revenue.png`
+![Revenue Analysis](./Revenue.png)
+
+#### ✅ Insights:
+- Monthly/quarterly revenue performance.
+- Total income and growth percentage tracked.
+
+#### 📈 Charts Used:
+- **Column Chart**: Compare revenue across months/regions.
+- **Card Visuals**: Show total revenue and percentage growth.
+- **Area Chart**: Optional to show cumulative revenue trend.
 
 ---
 
@@ -69,18 +70,6 @@ A dynamic **Fleet Management Dashboard** created using **Microsoft Power BI**, d
 
 ---
 
-## 📂 Report Structure
-
-The Power BI report includes multiple interlinked pages for comprehensive analysis:
-
-1. **Dashboard Overview** – Quick metrics view (rides, revenue, active vehicles)
-2. **Ratings Analysis** – Customer satisfaction trends
-3. **Revenue Insights** – Monthly and cumulative income tracking
-4. **Vehicle Status** – Fleet management and usage
-5. **Cancellations** – Ride failure reasons and service improvement tracking
-
----
-
 ### ⭐ Ratings Overview – `Rating.png`
 ![Rating Overview](./Rating.png)
 
@@ -93,6 +82,19 @@ The Power BI report includes multiple interlinked pages for comprehensive analys
 - **Bar Chart**: Breakdown by driver, city, or category to find patterns.
 
 ---
+
+## 📂 Report Structure
+
+The Power BI report includes multiple interlinked pages for comprehensive analysis:
+
+1. **Dashboard Overview** – Quick metrics view (rides, revenue, active vehicles)
+2. **Ratings Analysis** – Customer satisfaction trends
+3. **Revenue Insights** – Monthly and cumulative income tracking
+4. **Vehicle Status** – Fleet management and usage
+5. **Cancellations** – Ride failure reasons and service improvement tracking
+
+---
+
 
 ## 🎯 Why These Charts?
 
